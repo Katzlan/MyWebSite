@@ -1,0 +1,706 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.my-site-prot-my-site-prot {
+    width: 100%;
+    height: 2741px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    max-width: 1519.2px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 0px 0px 0px 0px;
+    background-color: rgba(255, 255, 255, 1);
+}
+.my-site-prot-frame3 {
+    top: 1614px;
+    left: 0px;
+    width: 1519.2px;
+    height: 435px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    background-color: rgba(25, 26, 27, 1);
+}
+.my-site-prot-rectangle1 {
+    top: 0px;
+    left: 0px;
+    width: 566px;
+    height: 435px;
+    position: absolute;
+    box-sizing: border-box;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+.my-site-prot-text {
+    top: 248px;
+    left: 754px;
+    color: rgba(255, 255, 255, 1);
+    width: 486px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 400;
+    line-height: 27px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text02 {
+    top: 120px;
+    left: 754px;
+    color: rgba(255, 255, 255, 1);
+    width: 486px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 700;
+    line-height: 48px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-frame5 {
+    top: 24px;
+    left: 38px;
+    width: 445px;
+    height: 388px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+}
+.my-site-prot-ss1 {
+    top: -56px;
+    left: -28px;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+.my-site-prot-frame6 {
+    top: 482px;
+    left: 10px;
+    width: 1453px;
+    height: 588px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+}
+.my-site-prot-frame51 {
+    top: 2049px;
+    left: 0px;
+    width: 1519.2px;
+    height: 793px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    background-color: rgba(255, 255, 255, 1);
+}
+.my-site-prot-text04 {
+    top: 218px;
+    left: 103px;
+    color: rgba(163, 35, 243, 1);
+    width: 32px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 400;
+    line-height: 27px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text06 {
+    top: 218px;
+    left: 535px;
+    color: rgba(163, 35, 243, 1);
+    width: 32px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 400;
+    line-height: 27px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text08 {
+    top: 218px;
+    left: 967px;
+    color: rgba(163, 35, 243, 1);
+    width: 32px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 400;
+    line-height: 27px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text10 {
+    top: 120px;
+    left: 103px;
+    color: rgba(26, 27, 28, 1);
+    width: 156px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 700;
+    line-height: 30px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text12 {
+    top: 248px;
+    left: 147px;
+    color: rgba(26, 27, 28, 1);
+    width: 216px;
+    height: auto;
+    position: absolute;
+    font-size: 26px;
+    align-self: auto;
+    font-style: Light;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 300;
+    line-height: 31.200000762939453px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text14 {
+    top: 314px;
+    left: 147px;
+    color: rgba(26, 27, 28, 1);
+    width: 380px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Light;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 300;
+    line-height: 27px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text21 {
+    top: 248px;
+    left: 579px;
+    color: rgba(26, 27, 28, 1);
+    width: 245px;
+    height: auto;
+    position: absolute;
+    font-size: 26px;
+    align-self: auto;
+    font-style: Light;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 300;
+    line-height: 31.200000762939453px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text23 {
+    top: 314px;
+    left: 579px;
+    color: rgba(26, 27, 28, 1);
+    width: 380px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Light;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 300;
+    line-height: 27px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text30 {
+    top: 248px;
+    left: 1011px;
+    color: rgba(26, 27, 28, 1);
+    width: 272px;
+    height: auto;
+    position: absolute;
+    font-size: 26px;
+    align-self: auto;
+    font-style: Light;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 300;
+    line-height: 31.200000762939453px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text32 {
+    top: 314px;
+    left: 1011px;
+    color: rgba(26, 27, 28, 1);
+    width: 380px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Light;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 300;
+    line-height: 27px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-group2 {
+    top: -2px;
+    left: 515px;
+    width: 440.00006103515625px;
+    height: 766px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+}
+.my-site-prot-line1 {
+    top: 2px;
+    left: 0.00003339549948577769px;
+    width: 764px;
+    height: 0px;
+    position: absolute;
+    box-sizing: border-box;
+}
+.my-site-prot-line2 {
+    top: 0px;
+    left: 440.00006103515625px;
+    width: 764px;
+    height: 0px;
+    position: absolute;
+    box-sizing: border-box;
+}
+.my-site-prot-frame4 {
+    top: 613px;
+    left: 597px;
+    width: 247px;
+    display: flex;
+    padding: 15px 27.799999237060547px;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: rgba(26, 27, 28, 1);
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+}
+.my-site-prot-text39 {
+    color: rgba(26, 27, 28, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-frame1 {
+    top: 0px;
+    left: 0px;
+    width: 1519.2px;
+    height: 78px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    background-color: rgba(25, 26, 27, 1);
+}
+.my-site-prot-frame2 {
+    top: 0px;
+    left: 180px;
+    width: 1080px;
+    height: 78px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    background-color: rgba(25, 26, 27, 1);
+}
+.my-site-prot-frame11 {
+    top: 24px;
+    left: 543px;
+    width: 421px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+}
+.my-site-prot-text41 {
+    color: rgba(246, 252, 251, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 40px;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text43 {
+    color: rgba(246, 252, 251, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 40px;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text45 {
+    color: rgba(246, 252, 251, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text47 {
+    top: 24px;
+    left: 171px;
+    color: rgba(246, 252, 251, 1);
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    align-self: auto;
+    font-style: Heavy;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 900;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-ellipse1 {
+    top: 9px;
+    left: 87px;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+.my-site-prot-frame31 {
+    top: 78px;
+    left: 0px;
+    width: 1519.2px;
+    height: 530px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    background-color: rgba(25, 26, 27, 1);
+}
+.my-site-prot-frame41 {
+    top: 407px;
+    left: 120px;
+    width: 247px;
+    display: flex;
+    padding: 15px 27.799999237060547px;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+}
+.my-site-prot-text49 {
+    color: rgba(246, 252, 251, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-group1 {
+    top: 157px;
+    left: 120px;
+    width: 998px;
+    height: 176px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+}
+.my-site-prot-text51 {
+    top: 82px;
+    color: rgba(255, 255, 255, 1);
+    width: 484px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+.my-site-prot-text56 {
+    top: 124px;
+    color: rgba(255, 255, 255, 1);
+    width: 791px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+.my-site-prot-text63 {
+    color: rgba(164, 27, 248, 1);
+    width: 998px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+.my-site-prot-frame42 {
+    top: 848px;
+    left: 339px;
+    width: 1101px;
+    height: 530px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    background-color: rgba(25, 26, 27, 1);
+}
+.my-site-prot-text65 {
+    top: 133px;
+    left: 564px;
+    color: rgba(255, 255, 255, 1);
+    width: 366px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Semibold;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-text67 {
+    top: 187px;
+    left: 564px;
+    color: rgba(255, 255, 255, 1);
+    width: 486px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: 400;
+    line-height: 27px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.my-site-prot-rectangle {
+    top: 898px;
+    left: 389px;
+    width: 400px;
+    height: 550px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+    margin-right: 0;
+    margin-bottom: 0;
+}
