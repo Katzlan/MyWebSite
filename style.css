@@ -6781,10 +6781,10 @@ a:hover {
     height: auto;
     font-size: 24px;
     align-self: auto;
-    font-style: Bold;
+    font-style: normal;
     text-align: left;
     font-family: SF Pro Display;
-    font-weight: 700;
+    font-weight: bold;
     line-height: normal;
     font-stretch: normal;
     margin-right: 40px;
@@ -6796,10 +6796,10 @@ a:hover {
     height: auto;
     font-size: 24px;
     align-self: auto;
-    font-style: Bold;
+    font-style: normal;
     text-align: left;
     font-family: SF Pro Display;
-    font-weight: 700;
+    font-weight: bold;
     line-height: normal;
     font-stretch: normal;
     margin-right: 40px;
@@ -6811,10 +6811,10 @@ a:hover {
     height: auto;
     font-size: 24px;
     align-self: auto;
-    font-style: Bold;
+    font-style: normal;
     text-align: left;
     font-family: SF Pro Display;
-    font-weight: 700;
+    font-weight: bold;
     line-height: normal;
     font-stretch: normal;
     margin-right: 0;
@@ -6829,7 +6829,7 @@ a:hover {
     position: absolute;
     font-size: 28px;
     align-self: auto;
-    font-style: Heavy;
+    font-style: normal;
     text-align: left;
     font-family: SF Pro Display;
     font-weight: 900;
