@@ -6549,7 +6549,7 @@ a:hover {
 .my-site-prot-text12 {
     top: 248px;
     left: 147px;
-    color: rgba(26, 27, 28, 1);
+    color: #1A1B1C;
     width: 216px;
     height: auto;
     position: absolute;
@@ -6558,7 +6558,7 @@ a:hover {
     font-style: normal;
     text-align: left;
     font-family: SF Pro Display;
-    font-weight: 200;
+    font-weight: lighter;
     line-height: 31.200000762939453px;
     font-stretch: normal;
     margin-right: 0;
@@ -6568,7 +6568,7 @@ a:hover {
 .my-site-prot-text14 {
     top: 314px;
     left: 147px;
-    color: rgba(26, 27, 28, 1);
+    color: #1A1B1C;
     width: 380px;
     height: auto;
     position: absolute;
@@ -6577,7 +6577,7 @@ a:hover {
     font-style: normal;
     text-align: left;
     font-family: SF Pro Display;
-    font-weight: 200;
+    font-weight: lighter;
     line-height: 27px;
     font-stretch: normal;
     margin-right: 0;
@@ -6587,7 +6587,7 @@ a:hover {
 .my-site-prot-text21 {
     top: 248px;
     left: 579px;
-    color: rgba(26, 27, 28, 1);
+    color: #1A1B1C;
     width: 245px;
     height: auto;
     position: absolute;
@@ -6596,7 +6596,7 @@ a:hover {
     font-style: normal;
     text-align: left;
     font-family: SF Pro Display;
-    font-weight: 200;
+    font-weight: lighter;
     line-height: 31.200000762939453px;
     font-stretch: normal;
     margin-right: 0;
@@ -6606,7 +6606,7 @@ a:hover {
 .my-site-prot-text23 {
     top: 314px;
     left: 579px;
-    color: rgba(26, 27, 28, 1);
+    color: #1A1B1C;
     width: 380px;
     height: auto;
     position: absolute;
@@ -6615,7 +6615,7 @@ a:hover {
     font-style: normal;
     text-align: left;
     font-family: SF Pro Display;
-    font-weight: 200;
+    font-weight: lighter;
     line-height: 27px;
     font-stretch: normal;
     margin-right: 0;
@@ -6625,7 +6625,7 @@ a:hover {
 .my-site-prot-text30 {
     top: 248px;
     left: 1011px;
-    color: rgba(26, 27, 28, 1);
+    color: #1A1B1C;
     width: 272px;
     height: auto;
     position: absolute;
@@ -6634,7 +6634,7 @@ a:hover {
     font-style: normal;
     text-align: left;
     font-family: SF Pro Display;
-    font-weight: 200;
+    font-weight: lighter;
     line-height: 31.200000762939453px;
     font-stretch: normal;
     margin-right: 0;
@@ -6644,7 +6644,7 @@ a:hover {
 .my-site-prot-text32 {
     top: 314px;
     left: 1011px;
-    color: rgba(26, 27, 28, 1);
+    color: #1A1B1C;
     width: 380px;
     height: auto;
     position: absolute;
@@ -6653,9 +6653,9 @@ a:hover {
     font-style: normal;
     text-align: left;
     font-family: SF Pro Display;
-    font-weight: 200;
+    font-weight: lighter;
     line-height: 27px;
-    font-stretch: normal;
+    font-stretch: initial;
     margin-right: 0;
     margin-bottom: 0;
     text-decoration: none;
@@ -6995,6 +6995,28 @@ a:hover {
     margin-bottom: 0;
     background-color: rgba(25, 26, 27, 1);
     padding: 15px 27.8px;
+    text-decoration: none;
+}
+.my-site-prot-hello {
+    background: linear-gradient(to right, #b979de 50%, #501878 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    top: 67px;
+    left: 564px;
+    color: rgba(255, 255, 255, 1);
+    width: 366px;
+    height: auto;
+    position: absolute;
+    font-size: 26px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-weight: bold;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
     text-decoration: none;
 }
 .my-site-prot-text65 {
